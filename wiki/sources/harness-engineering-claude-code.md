@@ -10,7 +10,7 @@ sources: [raw/papers/book1-claude-code.pdf]
 
 # Harness Engineering: Claude Code 设计指南
 
-来源：agentway.dev，2026-04-01，rev 37dfc2，共 88 页（9 章 + 3 附录）
+来源：[[agentway|agentway.dev]]，2026-04-01，rev 37dfc2，共 88 页（9 章 + 3 附录）
 
 ## 核心立场
 

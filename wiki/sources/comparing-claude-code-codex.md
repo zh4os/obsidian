@@ -10,7 +10,7 @@ sources: [raw/papers/book2-comparing.pdf]
 
 # Claude Code 和 Codex 的 Harness 设计哲学
 
-来源：agentway.dev，2026-04-01，rev 37dfc2，54 页（8 章 + 2 附录）
+来源：[[agentway|agentway.dev]]，2026-04-01，rev 37dfc2，54 页（8 章 + 2 附录）
 Harness Engineering 系列第二本，比较 [[claude-code|Claude Code]] 与 [[codex|Codex]] 的 Harness 设计哲学。
 
 ## 核心立场
