@@ -53,4 +53,4 @@
 - [[exploration-discovery-pattern|探索与发现]] — 自主探索未知领域与发现新知识（第 21 章）
 
 ## Analyses
-<!-- Query-generated comparisons, syntheses, etc. -->
+- [[query-workflow-vs-query-loop|Query 工作流 vs Query Loop]] — 同名但不同层：认知工作流 vs 执行基础设施
