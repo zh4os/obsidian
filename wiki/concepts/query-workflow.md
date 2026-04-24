@@ -25,3 +25,10 @@ sources: [raw/articles/karpathy-llm-wiki.md]
 
 - 回答的形式可以多样：文本、表格、对比分析
 - **好的回答应该被存入 wiki**，让探索也能产生复利
+
+## 相关
+
+- [[ingest-workflow|Ingest 工作流]] — ingest 充实知识库，query 消费知识库
+- [[lint-workflow|Lint 工作流]] — lint 检查 query 生成的 analyses 页面健康度
+- [[rag|RAG]] — query 工作流本质上是一种 RAG 实践
+- [[query-loop|Query Loop]] — Harness Engineering 中的底层执行循环机制

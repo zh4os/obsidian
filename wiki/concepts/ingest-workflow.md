@@ -28,3 +28,9 @@ sources: [raw/articles/karpathy-llm-wiki.md]
 - 单次 ingest 可能触及 10-15 个 wiki 页面
 - 优先更新已有页面，而非创建重复页面
 - 可以逐个 ingest（精细控制）或批量 ingest（效率优先）
+
+## 相关
+
+- [[query-workflow|Query 工作流]] — ingest 充实知识库，query 消费知识库
+- [[lint-workflow|Lint 工作流]] — ingest 后可运行 lint 检查新增内容的健康度
+- [[knowledge-management|知识管理]] — ingest 是知识管理的输入环节

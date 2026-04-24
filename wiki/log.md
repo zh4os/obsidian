@@ -3,6 +3,11 @@
 <!-- Append-only. Newest entries at top. -->
 <!-- Format: ## [YYYY-MM-DD] operation | subject -->
 
+## [2026-04-24] re-ingest | 智能体设计模式 — 补全 21 个设计模式概念页
+- Source: raw/papers/agentic-design-patterns-bilingual.pdf
+- Created: wiki/concepts/prompt-chaining.md, wiki/concepts/routing-pattern.md, wiki/concepts/parallelization-pattern.md, wiki/concepts/reflection-pattern.md, wiki/concepts/tool-use-pattern.md, wiki/concepts/planning-pattern.md, wiki/concepts/multi-agent-collaboration-pattern.md, wiki/concepts/memory-management-pattern.md, wiki/concepts/learning-adaptation-pattern.md, wiki/concepts/mcp-pattern.md, wiki/concepts/goal-monitoring-pattern.md, wiki/concepts/exception-handling-pattern.md, wiki/concepts/human-in-the-loop-pattern.md, wiki/concepts/rag-pattern.md, wiki/concepts/a2a-pattern.md, wiki/concepts/resource-optimization-pattern.md, wiki/concepts/reasoning-pattern.md, wiki/concepts/guardrails-pattern.md, wiki/concepts/evaluation-monitoring-pattern.md, wiki/concepts/prioritization-pattern.md, wiki/concepts/exploration-discovery-pattern.md
+- Updated: wiki/index.md, wiki/overview.md
+
 ## [2026-04-24] ingest | 智能体设计模式（双语版）
 - Source: raw/papers/agentic-design-patterns-bilingual.pdf
 - Created: wiki/sources/agentic-design-patterns.md

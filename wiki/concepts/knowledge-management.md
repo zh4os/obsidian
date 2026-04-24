@@ -21,3 +21,10 @@ sources: [raw/articles/karpathy-llm-wiki.md]
 ## 核心挑战
 
 人类放弃知识库的主要原因是**维护成本增长快于价值**。LLM Wiki 模式通过将维护工作交给 LLM 来解决这个问题。
+
+## 相关
+
+- [[ingest-workflow|Ingest 工作流]] — 知识的输入环节
+- [[query-workflow|Query 工作流]] — 知识的消费环节
+- [[lint-workflow|Lint 工作流]] — 知识的质量保障环节
+- [[memory-management-pattern|记忆管理]] — Agent 视角下的知识管理

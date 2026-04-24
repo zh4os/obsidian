@@ -24,3 +24,9 @@ sources: [raw/articles/karpathy-llm-wiki.md]
 ## 使用
 
 直接告诉 LLM `lint`，即可触发全面检查。
+
+## 相关
+
+- [[ingest-workflow|Ingest 工作流]] — lint 检查 ingest 产生的新页面质量
+- [[query-workflow|Query 工作流]] — lint 检查 query 生成的 analyses 页面
+- [[knowledge-management|知识管理]] — lint 是知识管理的质量保障环节

@@ -21,4 +21,10 @@ sources: [raw/articles/karpathy-llm-wiki.md]
 
 ## 与 LLM Wiki 的对比
 
-参见 [[LLM Wiki 模式#与 RAG 的区别]]
+参见 [[llm-wiki-pattern#与 RAG 的区别|LLM Wiki 模式 — 与 RAG 的区别]]
+
+## 相关
+
+- [[llm-wiki-pattern|LLM Wiki 模式]] — wiki 模式旨在克服 RAG 的局限
+- [[rag-pattern|知识检索（RAG）]] — 《智能体设计模式》第 14 章对 RAG 的工程化实践
+- [[knowledge-management|知识管理]] — RAG 是知识管理的一种技术手段

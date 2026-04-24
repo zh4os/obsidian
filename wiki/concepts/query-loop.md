@@ -39,3 +39,4 @@ sources: [raw/papers/book1-claude-code.pdf]
 - [[harness-engineering|Harness Engineering]]
 - [[error-and-recovery|错误与恢复]] — Query Loop 的恢复分支
 - [[tool-permission-interruption|工具权限与中断]] — Query Loop 碰到外部世界的地方
+- [[query-workflow|Query 工作流]] — LLM Wiki 的 Query 工作流是 Query Loop 的上层应用

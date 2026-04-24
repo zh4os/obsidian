@@ -30,6 +30,27 @@
 - [[multi-agent-verification|多代理与验证]] — 用分工和验证管理不确定性
 - [[team-adoption|团队落地]] — 团队制度比个人技巧重要
 - [[harness-ten-principles|Harness Engineering 十条原则]] — 全书十条原则压缩
+- [[prompt-chaining|提示词链]] — 将复杂任务分解为顺序子任务的管道模式（第 1 章）
+- [[routing-pattern|路由]] — 动态条件路由，按输入分发到不同处理流程（第 2 章）
+- [[parallelization-pattern|并行化]] — 同时执行多个独立子任务并聚合结果（第 3 章）
+- [[reflection-pattern|反思]] — 自我评估与迭代改进（第 4 章）
+- [[tool-use-pattern|工具使用]] — 通过外部工具扩展 LLM 能力边界（第 5 章）
+- [[planning-pattern|规划]] — 将高层目标分解为可执行步骤序列（第 6 章）
+- [[multi-agent-collaboration-pattern|多智能体协作]] — 多个专业化 agent 协同工作（第 7 章）
+- [[memory-management-pattern|记忆管理]] — 会话、状态与长期记忆管理（第 8 章）
+- [[learning-adaptation-pattern|学习与适应]] — SICA、AlphaEvolve 等自我改进机制（第 9 章）
+- [[mcp-pattern|MCP 协议]] — 标准化模型-工具通信协议（第 10 章）
+- [[goal-monitoring-pattern|目标设定与监控]] — 目标追踪与偏差修正（第 11 章）
+- [[exception-handling-pattern|异常处理与恢复]] — 错误检测、降级与恢复策略（第 12 章）
+- [[human-in-the-loop-pattern|人机协同]] — 人类监督与关键节点干预（第 13 章）
+- [[rag-pattern|知识检索（RAG）]] — 检索增强生成的 Agent 化实践（第 14 章）
+- [[a2a-pattern|智能体间通信（A2A）]] — Agent 间标准化通信协议（第 15 章）
+- [[resource-optimization-pattern|资源感知优化]] — 计算资源与成本的智能管理（第 16 章）
+- [[reasoning-pattern|推理技术]] — CoT、ToT、Self-Consistency 等推理增强（第 17 章）
+- [[guardrails-pattern|安全护栏]] — 输入/输出过滤与内容安全机制（第 18 章）
+- [[evaluation-monitoring-pattern|评估与监控]] — 系统性评估与运行时监控（第 19 章）
+- [[prioritization-pattern|优先级排序]] — 任务优先级判断与资源分配（第 20 章）
+- [[exploration-discovery-pattern|探索与发现]] — 自主探索未知领域与发现新知识（第 21 章）
 
 ## Analyses
 <!-- Query-generated comparisons, syntheses, etc. -->

@@ -16,7 +16,7 @@ sources: []
 
 - **Sources**: 4 篇
 - **Entities**: 6 个
-- **Concepts**: 15 个
+- **Concepts**: 36 个
 - **Analyses**: 0 篇
 
 ## 主题脉络
@@ -31,7 +31,12 @@ sources: []
 [[comparing-claude-code-codex|Claude Code vs Codex]]：运行时纪律 vs 显式控制层，殊途同归。
 
 ### 4. [[agentic-design-patterns|智能体设计模式]]
-21 种 Agent 设计模式百科：提示词链、路由、并行化、反思、工具使用、规划、多智能体协作、记忆管理、MCP、RAG、A2A 等。
+21 种 Agent 设计模式百科，每种模式均有独立概念页：
+- **基础模式**：[[prompt-chaining|提示词链]]、[[routing-pattern|路由]]、[[parallelization-pattern|并行化]]、[[reflection-pattern|反思]]
+- **能力扩展**：[[tool-use-pattern|工具使用]]、[[planning-pattern|规划]]、[[reasoning-pattern|推理技术]]、[[memory-management-pattern|记忆管理]]
+- **协作与通信**：[[multi-agent-collaboration-pattern|多智能体协作]]、[[human-in-the-loop-pattern|人机协同]]、[[mcp-pattern|MCP 协议]]、[[a2a-pattern|A2A 通信]]
+- **治理与安全**：[[guardrails-pattern|安全护栏]]、[[exception-handling-pattern|异常处理]]、[[goal-monitoring-pattern|目标监控]]、[[evaluation-monitoring-pattern|评估与监控]]
+- **高级主题**：[[learning-adaptation-pattern|学习与适应]]、[[rag-pattern|知识检索]]、[[resource-optimization-pattern|资源优化]]、[[prioritization-pattern|优先级排序]]、[[exploration-discovery-pattern|探索与发现]]
 
 ## 使用方式
 
