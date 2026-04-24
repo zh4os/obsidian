@@ -22,6 +22,7 @@
 - [[knowledge-management|知识管理]] — 组织、存储和检索知识的实践
 - [[rag|RAG]] — 检索增强生成
 - [[harness-engineering|Harness Engineering]] — 围绕不稳定模型设计控制结构的工程方法
+- [[agent-harness|Agent Harness]] — 把 LLM 约束成可用工程部件的"外壳"（术语入口页）
 - [[prompt-as-control-plane|Prompt 作为控制面]] — Prompt 是分层控制面，不是人格包装
 - [[query-loop|Query Loop]] — 代理系统的心跳：可恢复的执行循环
 - [[tool-permission-interruption|工具权限与中断]] — 工具是受管执行接口，权限先于能力

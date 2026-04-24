@@ -3,6 +3,10 @@
 <!-- Append-only. Newest entries at top. -->
 <!-- Format: ## [YYYY-MM-DD] operation | subject -->
 
+## [2026-04-24] query | Agent Harness 术语页
+- Created: wiki/concepts/agent-harness.md
+- Updated: wiki/index.md
+
 ## [2026-04-24] query | Query 工作流 vs Query Loop
 - Created: wiki/analyses/query-workflow-vs-query-loop.md
 - Updated: wiki/index.md
