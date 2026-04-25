@@ -4,7 +4,7 @@ aliases: ["Wiki Overview"]
 type: analysis
 tags: [meta]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: []
 ---
 
@@ -14,10 +14,10 @@ sources: []
 
 ## 当前规模
 
-- **Sources**: 4 篇
-- **Entities**: 6 个
-- **Concepts**: 36 个
-- **Analyses**: 0 篇
+- **Sources**: 5 篇
+- **Entities**: 7 个
+- **Concepts**: 37 个
+- **Analyses**: 1 篇
 
 ## 主题脉络
 
@@ -37,6 +37,9 @@ sources: []
 - **协作与通信**：[[multi-agent-collaboration-pattern|多智能体协作]]、[[human-in-the-loop-pattern|人机协同]]、[[mcp-pattern|MCP 协议]]、[[a2a-pattern|A2A 通信]]
 - **治理与安全**：[[guardrails-pattern|安全护栏]]、[[exception-handling-pattern|异常处理]]、[[goal-monitoring-pattern|目标监控]]、[[evaluation-monitoring-pattern|评估与监控]]
 - **高级主题**：[[learning-adaptation-pattern|学习与适应]]、[[rag-pattern|知识检索]]、[[resource-optimization-pattern|资源优化]]、[[prioritization-pattern|优先级排序]]、[[exploration-discovery-pattern|探索与发现]]
+
+### 5. Claude Code 实操工作流
+[[claude-code-command-workflow|9 个 slash command 的最小工作流]]：把 [[harness-engineering|Harness]] 理念落到 `/clear`、`/compact`、`/context`、`/diff` 等具体命令。来源 [[poxiao-ai|破晓AI编程]] 公众号文章。
 
 ## 使用方式
 

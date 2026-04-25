@@ -3,6 +3,13 @@
 <!-- Append-only. Newest entries at top. -->
 <!-- Format: ## [YYYY-MM-DD] operation | subject -->
 
+## [2026-04-26] ingest | Claude Code 8 个高频 slash command（破晓AI编程）
+- Source: https://mp.weixin.qq.com/s/WqfpZOeg-UEzUinz8n3T3w
+- Created: wiki/sources/claude-code-slash-commands.md
+- Created: wiki/concepts/claude-code-command-workflow.md
+- Created: wiki/entities/poxiao-ai.md
+- Updated: wiki/entities/claude-code.md, wiki/index.md, wiki/overview.md
+
 ## [2026-04-24] query | Agent Harness 术语页
 - Created: wiki/concepts/agent-harness.md
 - Updated: wiki/index.md

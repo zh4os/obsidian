@@ -4,8 +4,8 @@ aliases: ["Claude Code"]
 type: entity
 tags: [tool, agent, claude, anthropic]
 created: 2026-04-24
-updated: 2026-04-24
-sources: [raw/papers/book1-claude-code.pdf, raw/papers/book2-comparing.pdf]
+updated: 2026-04-26
+sources: [raw/papers/book1-claude-code.pdf, raw/papers/book2-comparing.pdf, wiki/sources/claude-code-slash-commands.md]
 ---
 
 # Claude Code
@@ -36,9 +36,14 @@ Claude Code 值得研究，因为它在实现上保持了工程克制：
 
 本 wiki 运行在 Claude Code 之上——Claude Code 既是研究对象，也是 [[llm-wiki-pattern|LLM Wiki 模式]] 的执行者。
 
+## 日常使用
+
+- [[claude-code-command-workflow|命令工作流]] — 9 个高频 slash command 串成的最小工作流
+
 ## 相关
 
 - [[harness-engineering|Harness Engineering]]
 - [[comparing-claude-code-codex|与 Codex 的比较]] — 两种 Harness 哲学
 - [[codex|Codex]] — OpenAI 的 AI 编程代理
 - [[obsidian|Obsidian]] — 本 wiki 的浏览端
+- [[claude-code-slash-commands|破晓AI编程：8 个命令实操]]

@@ -5,6 +5,7 @@
 - [[harness-engineering-claude-code|Harness Engineering: Claude Code 设计指南]] — 从 Claude Code 源码提炼的 AI Agent 工程原则（88 页，9 章）
 - [[comparing-claude-code-codex|Claude Code 和 Codex 的 Harness 设计哲学]] — 两种 Harness 路线的比较工程笔记（54 页，8 章）
 - [[agentic-design-patterns|智能体设计模式（双语版）]] — 21 种 LLM Agent 设计模式百科（570 页，21 章）
+- [[claude-code-slash-commands|Claude Code 8 个高频命令]] — 破晓AI编程的 slash command 实操工作流
 
 ## Entities
 - [[andrej-karpathy|Andrej Karpathy]] — AI 研究者，LLM Wiki 模式提出者
@@ -13,6 +14,7 @@
 - [[codex|Codex]] — OpenAI 的 AI 编程代理
 - [[agentway|agentway.dev]] — Harness Engineering 系列书籍出版方
 - [[antonio-gulli|Antonio Gulli]] — 《智能体设计模式》作者
+- [[poxiao-ai|破晓AI编程]] — Claude Code 工作流向微信公众号作者
 
 ## Concepts
 - [[llm-wiki-pattern|LLM Wiki 模式]] — 用 LLM 维护持久化知识库的模式
@@ -52,6 +54,7 @@
 - [[evaluation-monitoring-pattern|评估与监控]] — 系统性评估与运行时监控（第 19 章）
 - [[prioritization-pattern|优先级排序]] — 任务优先级判断与资源分配（第 20 章）
 - [[exploration-discovery-pattern|探索与发现]] — 自主探索未知领域与发现新知识（第 21 章）
+- [[claude-code-command-workflow|Claude Code 命令工作流]] — 9 个 slash command 的最小工作流
 
 ## Analyses
 - [[query-workflow-vs-query-loop|Query 工作流 vs Query Loop]] — 同名但不同层：认知工作流 vs 执行基础设施
