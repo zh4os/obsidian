@@ -78,11 +78,11 @@ sources: [wiki/sources/claude-code-slash-commands.md]
 
 | 命令 | 对应 wiki 概念 |
 |---|---|
-| `/clear`、`/compact`、`/context`、`/statusline` | [[context-governance|上下文治理]] |
-| `/resume`、`/rename` | [[memory-management-pattern|记忆管理]] 的会话维度 |
-| `/btw` | 反 multi-tasking 纪律（与 [[parallelization-pattern|并行化]] 区别：一个是主动开支线，一个是失控混线） |
-| `/diff` | [[multi-agent-verification|多代理与验证]]、["看起来像做对了"反模式](../sources/harness-engineering-claude-code.md) |
-| `/init` | [[knowledge-management|知识管理]]、CLAUDE.md 分层指令 |
+| `/clear`、`/compact`、`/context`、`/statusline` | [[context-governance\|上下文治理]] |
+| `/resume`、`/rename` | [[memory-management-pattern\|记忆管理]] 的会话维度 |
+| `/btw` | 反 multi-tasking 纪律（与 [[parallelization-pattern\|并行化]] 区别：一个是主动开支线，一个是失控混线） |
+| `/diff` | [[multi-agent-verification\|多代理与验证]]、["看起来像做对了"反模式](../sources/harness-engineering-claude-code.md) |
+| `/init` | [[knowledge-management\|知识管理]]、CLAUDE.md 分层指令 |
 
 ## 相关
 

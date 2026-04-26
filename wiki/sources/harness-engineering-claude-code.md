@@ -23,14 +23,14 @@ sources: [raw/papers/book1-claude-code.pdf]
 | 章 | 主题 | 核心原则 |
 |---|---|---|
 | 1 | 为什么需要 Harness | 模型是不稳定部件，系统必须围绕这个事实设计 |
-| 2 | [[prompt-as-control-plane|Prompt 作为控制面]] | Prompt 是分层的控制面，不是人格包装 |
-| 3 | [[query-loop|Query Loop]] | 代理系统的心跳：可恢复的执行循环 |
-| 4 | [[tool-permission-interruption|工具权限与中断]] | 工具是受管执行接口，权限先于能力 |
-| 5 | [[context-governance|上下文治理]] | 上下文是工作内存，需要预算管理 |
-| 6 | [[error-and-recovery|错误与恢复]] | 错误路径就是主路径 |
-| 7 | [[multi-agent-verification|多代理与验证]] | 用分工和验证管理不确定性 |
-| 8 | [[team-adoption|团队落地]] | 团队制度比个人技巧重要 |
-| 9 | [[harness-ten-principles|Harness Engineering 十条原则]] | 全书压缩 |
+| 2 | [[prompt-as-control-plane\|Prompt 作为控制面]] | Prompt 是分层的控制面，不是人格包装 |
+| 3 | [[query-loop\|Query Loop]] | 代理系统的心跳：可恢复的执行循环 |
+| 4 | [[tool-permission-interruption\|工具权限与中断]] | 工具是受管执行接口，权限先于能力 |
+| 5 | [[context-governance\|上下文治理]] | 上下文是工作内存，需要预算管理 |
+| 6 | [[error-and-recovery\|错误与恢复]] | 错误路径就是主路径 |
+| 7 | [[multi-agent-verification\|多代理与验证]] | 用分工和验证管理不确定性 |
+| 8 | [[team-adoption\|团队落地]] | 团队制度比个人技巧重要 |
+| 9 | [[harness-ten-principles\|Harness Engineering 十条原则]] | 全书压缩 |
 
 ## 关键洞察
 

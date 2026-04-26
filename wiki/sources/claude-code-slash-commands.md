@@ -28,7 +28,7 @@ sources: ["https://mp.weixin.qq.com/s/WqfpZOeg-UEzUinz8n3T3w"]
 | `/statusline` | 状态栏长期可见 | context 用量被动可见，不用主动查 |
 | `/btw` | 支线别硬塞主线 | 多线程聊崩，主线被冲乱 |
 | `/diff` | 改完不等于改对 | 验证 Claude 真改了什么 |
-| `/init` | 新项目搭骨架 | 第一版 [[knowledge-management|CLAUDE.md]] 起手难 |
+| `/init` | 新项目搭骨架 | 第一版 [[knowledge-management\|CLAUDE.md]] 起手难 |
 
 ## 最小工作流（作者自述）
 

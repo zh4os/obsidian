@@ -36,7 +36,7 @@ Harness Engineering 系列第二本，比较 [[claude-code|Claude Code]] 与 [[c
 
 | Claude Code | Codex |
 |---|---|
-| [[query-loop|Query Loop]] 压进主循环 | Thread + Rollout + State Bridge |
+| [[query-loop\|Query Loop]] 压进主循环 | Thread + Rollout + State Bridge |
 | 现场救火队 | 带档案系统的调度中心 |
 
 ### 3. 工具与权限
