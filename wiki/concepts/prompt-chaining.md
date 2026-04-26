@@ -48,3 +48,4 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[parallelization-pattern|并行化]] — 独立子任务可并行，依赖步骤用链串联
 - [[reflection-pattern|反思]] — 链中可嵌入自我审查环节
 - [[planning-pattern|规划]] — 规划产出计划，链负责把计划落到执行
+- [[prompt-chaining-in-long-context-era|长上下文时代下的提示词链是否还有意义]] — 百万 token 窗口下的相关性分析

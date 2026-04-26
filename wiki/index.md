@@ -58,3 +58,4 @@
 
 ## Analyses
 - [[query-workflow-vs-query-loop|Query 工作流 vs Query Loop]] — 同名但不同层：认知工作流 vs 执行基础设施
+- [[prompt-chaining-in-long-context-era|长上下文时代下的提示词链是否还有意义]] — 百万 token 没让链失效，反而让"主动选择分"更重要

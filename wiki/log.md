@@ -3,6 +3,10 @@
 <!-- Append-only. Newest entries at top. -->
 <!-- Format: ## [YYYY-MM-DD] operation | subject -->
 
+## [2026-04-26] query | 长上下文时代下的提示词链是否还有意义
+- Created: wiki/analyses/prompt-chaining-in-long-context-era.md
+- Updated: wiki/index.md, wiki/concepts/prompt-chaining.md（补 analysis 反链）
+
 ## [2026-04-26] lint | 修复表格 wikilink 别名语法 + 补 14 对对等概念互链
 - Fixed: 5 个 source/concept 页的表格内 wikilink 用 `\|` 转义（解决列分隔符冲突）
 - Updated: wiki/concepts/error-and-recovery.md, multi-agent-verification.md, context-governance.md, reflection-pattern.md, goal-monitoring-pattern.md, tool-permission-interruption.md, team-adoption.md, learning-adaptation-pattern.md, planning-pattern.md, reasoning-pattern.md, prompt-chaining.md — 补对等概念反向 wikilink，updated 同步到 2026-04-26
