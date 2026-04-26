@@ -3,6 +3,10 @@
 <!-- Append-only. Newest entries at top. -->
 <!-- Format: ## [YYYY-MM-DD] operation | subject -->
 
+## [2026-04-26] lint | 补 12 对反链：6 条 analysis→concept + 5 对 peer concept + 1 对 RAG↔Query
+- Updated: wiki/concepts/context-governance.md, reflection-pattern.md, parallelization-pattern.md, planning-pattern.md, query-workflow.md, query-loop.md, resource-optimization-pattern.md, memory-management-pattern.md, rag.md
+- 涉及 9 个 concept 页的 `## 相关` 增补，updated 同步到 2026-04-26
+
 ## [2026-04-26] query | 长上下文时代下的提示词链是否还有意义
 - Created: wiki/analyses/prompt-chaining-in-long-context-era.md
 - Updated: wiki/index.md, wiki/concepts/prompt-chaining.md（补 analysis 反链）

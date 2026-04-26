@@ -4,7 +4,7 @@ aliases: ["Query Loop"]
 type: concept
 tags: [harness-engineering, claude-code, 系统设计]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/book1-claude-code.pdf]
 ---
 
@@ -40,3 +40,4 @@ sources: [raw/papers/book1-claude-code.pdf]
 - [[error-and-recovery|错误与恢复]] — Query Loop 的恢复分支
 - [[tool-permission-interruption|工具权限与中断]] — Query Loop 碰到外部世界的地方
 - [[query-workflow|Query 工作流]] — LLM Wiki 的 Query 工作流是 Query Loop 的上层应用
+- [[query-workflow-vs-query-loop|Query 工作流 vs Query Loop]] — 延伸分析：同名不同层

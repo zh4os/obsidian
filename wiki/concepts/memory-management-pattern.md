@@ -4,7 +4,7 @@ aliases: ["记忆管理", "Memory Management Pattern"]
 type: concept
 tags: [agent, 设计模式, 状态管理]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 ---
 
@@ -45,3 +45,5 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[context-governance|上下文治理]] — Harness Engineering 视角的上下文管理
 - [[llm-wiki-pattern|LLM Wiki 模式]] — Wiki 本身就是一种长期记忆实现
 - [[rag-pattern|知识检索（RAG）]] — RAG 是记忆检索的一种方式
+- [[learning-adaptation-pattern|学习与适应]] — 经验积累需要记忆支持
+- [[knowledge-management|知识管理]] — 长期记忆是知识管理的实现层

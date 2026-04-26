@@ -37,3 +37,4 @@ sources: [raw/papers/book1-claude-code.pdf]
 - [[prompt-as-control-plane|Prompt 作为控制面]]
 - [[error-and-recovery|错误与恢复]]
 - [[memory-management-pattern|记忆管理]] — 长期记忆 vs 工作内存的对照视角
+- [[prompt-chaining-in-long-context-era|长上下文时代下的提示词链]] — 延伸分析：百万 token 不让上下文治理失效

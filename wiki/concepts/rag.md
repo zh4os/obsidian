@@ -4,7 +4,7 @@ aliases: ["RAG (Retrieval-Augmented Generation)"]
 type: concept
 tags: [llm, rag, knowledge-management]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/articles/karpathy-llm-wiki.md]
 ---
 
@@ -28,3 +28,4 @@ sources: [raw/articles/karpathy-llm-wiki.md]
 - [[llm-wiki-pattern|LLM Wiki 模式]] — wiki 模式旨在克服 RAG 的局限
 - [[rag-pattern|知识检索（RAG）]] — 《智能体设计模式》第 14 章对 RAG 的工程化实践
 - [[knowledge-management|知识管理]] — RAG 是知识管理的一种技术手段
+- [[query-workflow|Query 工作流]] — wiki 上的 Query 工作流是 RAG 的具体实现

@@ -4,7 +4,7 @@ aliases: ["资源感知优化", "Resource-Aware Optimization Pattern"]
 type: concept
 tags: [agent, 设计模式, 优化, 成本]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 ---
 
@@ -41,3 +41,4 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[parallelization-pattern|并行化]] — 并行化需要考虑资源成本
 - [[routing-pattern|路由]] — 路由可实现模型选择
 - [[context-governance|上下文治理]] — Harness Engineering 的上下文预算管理
+- [[prioritization-pattern|优先级排序]] — 资源约束下的任务取舍

@@ -41,3 +41,4 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[evaluation-monitoring-pattern|评估与监控]] — 反思是内部评估，监控是外部评估
 - [[learning-adaptation-pattern|学习与适应]] — 反思是单次改进，学习是跨任务持续改进
 - [[goal-monitoring-pattern|目标设定与监控]] — 反思查输出质量，监控查执行进度
+- [[prompt-chaining-in-long-context-era|长上下文时代下的提示词链]] — 延伸分析：自评必须独立 prompt

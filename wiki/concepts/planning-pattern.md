@@ -41,3 +41,5 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[reasoning-pattern|推理技术]] — 推理是规划的基础能力
 - [[goal-monitoring-pattern|目标设定与监控]] — 监控计划的执行进度
 - [[exploration-discovery-pattern|探索与发现]] — 探索补足规划无法预先覆盖的未知空间
+- [[prioritization-pattern|优先级排序]] — 规划产出顺序，优先级决定何时打断/抢占
+- [[prompt-chaining-in-long-context-era|长上下文时代下的提示词链]] — 延伸分析：规划结构建立在链之上

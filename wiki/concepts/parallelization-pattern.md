@@ -4,7 +4,7 @@ aliases: ["并行化", "Parallelization Pattern"]
 type: concept
 tags: [agent, 设计模式, 性能优化]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 ---
 
@@ -39,3 +39,5 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[prompt-chaining|提示词链]] — 并行处理独立子任务，链处理依赖步骤
 - [[multi-agent-collaboration-pattern|多智能体协作]] — 多个 agent 并行工作是协作的一种形式
 - [[resource-optimization-pattern|资源感知优化]] — 并行化需要考虑资源成本
+- [[prioritization-pattern|优先级排序]] — 并行处理"独立"子任务，优先级处理"竞争"子任务
+- [[prompt-chaining-in-long-context-era|长上下文时代下的提示词链]] — 延伸分析：并行结构建立在链之上

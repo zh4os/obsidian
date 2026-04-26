@@ -4,7 +4,7 @@ aliases: ["Query 工作流"]
 type: concept
 tags: [workflow, llm-wiki]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/articles/karpathy-llm-wiki.md]
 ---
 
@@ -32,3 +32,5 @@ sources: [raw/articles/karpathy-llm-wiki.md]
 - [[lint-workflow|Lint 工作流]] — lint 检查 query 生成的 analyses 页面健康度
 - [[rag|RAG]] — query 工作流本质上是一种 RAG 实践
 - [[query-loop|Query Loop]] — Harness Engineering 中的底层执行循环机制
+- [[query-workflow-vs-query-loop|Query 工作流 vs Query Loop]] — 延伸分析：同名不同层
+- [[rag|RAG]] — Query 工作流是 wiki 上的 RAG 实践
