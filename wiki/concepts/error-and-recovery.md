@@ -4,7 +4,7 @@ aliases: ["错误与恢复"]
 type: concept
 tags: [harness-engineering, claude-code, 可靠性]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/book1-claude-code.pdf]
 ---
 
@@ -45,3 +45,5 @@ sources: [raw/papers/book1-claude-code.pdf]
 - [[harness-engineering|Harness Engineering]]
 - [[query-loop|Query Loop]]
 - [[context-governance|上下文治理]]
+- [[exception-handling-pattern|异常处理与恢复]] — 同主题的设计模式视角（Gulli 第 12 章）
+- [[multi-agent-verification|多代理与验证]] — 错误与不确定性同源，验证常作为恢复入口

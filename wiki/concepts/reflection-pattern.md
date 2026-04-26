@@ -4,7 +4,7 @@ aliases: ["反思", "Reflection Pattern"]
 type: concept
 tags: [agent, 设计模式, 自我改进]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 ---
 
@@ -39,3 +39,5 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[prompt-chaining|提示词链]] — 反思是链的一种特殊形式（生成→评估→改进）
 - [[multi-agent-collaboration-pattern|多智能体协作]] — 可以用不同 agent 分别充当生成者和评审者
 - [[evaluation-monitoring-pattern|评估与监控]] — 反思是内部评估，监控是外部评估
+- [[learning-adaptation-pattern|学习与适应]] — 反思是单次改进，学习是跨任务持续改进
+- [[goal-monitoring-pattern|目标设定与监控]] — 反思查输出质量，监控查执行进度

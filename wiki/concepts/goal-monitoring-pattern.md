@@ -4,7 +4,7 @@ aliases: ["目标设定与监控", "Goal Setting and Monitoring Pattern"]
 type: concept
 tags: [agent, 设计模式, 目标管理]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 ---
 
@@ -40,3 +40,4 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[planning-pattern|规划]] — 规划设定路径，监控确保执行到位
 - [[reflection-pattern|反思]] — 反思检查输出质量，监控检查执行进度
 - [[exception-handling-pattern|异常处理与恢复]] — 监控发现问题后的处理
+- [[evaluation-monitoring-pattern|评估与监控]] — 监控偏目标进度，评估偏系统性能

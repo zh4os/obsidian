@@ -4,7 +4,7 @@ aliases: ["推理技术", "Reasoning Techniques Pattern"]
 type: concept
 tags: [agent, 设计模式, 推理, 思维链]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 ---
 
@@ -44,3 +44,4 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[planning-pattern|规划]] — 推理是规划的基础
 - [[reflection-pattern|反思]] — 反思本身是一种推理过程
 - [[prompt-chaining|提示词链]] — CoT 可融入链的每个步骤
+- [[exploration-discovery-pattern|探索与发现]] — ToT 等推理本质上是带评估的探索

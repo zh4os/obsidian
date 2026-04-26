@@ -4,7 +4,7 @@ aliases: ["规划", "Planning Pattern"]
 type: concept
 tags: [agent, 设计模式, 推理]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 ---
 
@@ -40,3 +40,4 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[prompt-chaining|提示词链]] — 计划确定后通过链执行
 - [[reasoning-pattern|推理技术]] — 推理是规划的基础能力
 - [[goal-monitoring-pattern|目标设定与监控]] — 监控计划的执行进度
+- [[exploration-discovery-pattern|探索与发现]] — 探索补足规划无法预先覆盖的未知空间

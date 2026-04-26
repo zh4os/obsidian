@@ -4,7 +4,7 @@ aliases: ["上下文治理"]
 type: concept
 tags: [harness-engineering, claude-code, context]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/book1-claude-code.pdf]
 ---
 
@@ -36,3 +36,4 @@ sources: [raw/papers/book1-claude-code.pdf]
 - [[harness-engineering|Harness Engineering]]
 - [[prompt-as-control-plane|Prompt 作为控制面]]
 - [[error-and-recovery|错误与恢复]]
+- [[memory-management-pattern|记忆管理]] — 长期记忆 vs 工作内存的对照视角

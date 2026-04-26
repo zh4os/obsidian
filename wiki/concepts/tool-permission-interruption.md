@@ -4,7 +4,7 @@ aliases: ["工具权限与中断"]
 type: concept
 tags: [harness-engineering, claude-code, 安全]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/book1-claude-code.pdf]
 ---
 
@@ -39,3 +39,5 @@ Bash 永远比别的工具更可疑——因为它能做的事情最多、后果
 - [[harness-engineering|Harness Engineering]]
 - [[query-loop|Query Loop]]
 - [[error-and-recovery|错误与恢复]]
+- [[human-in-the-loop-pattern|人机协同]] — `ask` 语义就是人在环里的具体形态
+- [[guardrails-pattern|安全护栏]] — 权限是结构化护栏，护栏是策略层延伸

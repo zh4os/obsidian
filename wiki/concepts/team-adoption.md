@@ -4,7 +4,7 @@ aliases: ["团队落地"]
 type: concept
 tags: [harness-engineering, claude-code, 团队]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/book1-claude-code.pdf]
 ---
 
@@ -32,3 +32,4 @@ sources: [raw/papers/book1-claude-code.pdf]
 - [[harness-engineering|Harness Engineering]]
 - [[multi-agent-verification|多代理与验证]]
 - [[prompt-as-control-plane|Prompt 作为控制面]]
+- [[human-in-the-loop-pattern|人机协同]] — Approval 分层就是制度化的"人在环里"

@@ -4,7 +4,7 @@ aliases: ["学习与适应", "Learning and Adaptation Pattern"]
 type: concept
 tags: [agent, 设计模式, 自我改进]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 ---
 
@@ -39,3 +39,4 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[reflection-pattern|反思]] — 反思是单次改进，学习是持续改进
 - [[evaluation-monitoring-pattern|评估与监控]] — 评估提供学习所需的反馈信号
 - [[memory-management-pattern|记忆管理]] — 经验积累需要记忆支持
+- [[exploration-discovery-pattern|探索与发现]] — 探索产生学习信号

@@ -3,6 +3,10 @@
 <!-- Append-only. Newest entries at top. -->
 <!-- Format: ## [YYYY-MM-DD] operation | subject -->
 
+## [2026-04-26] lint | 修复表格 wikilink 别名语法 + 补 14 对对等概念互链
+- Fixed: 5 个 source/concept 页的表格内 wikilink 用 `\|` 转义（解决列分隔符冲突）
+- Updated: wiki/concepts/error-and-recovery.md, multi-agent-verification.md, context-governance.md, reflection-pattern.md, goal-monitoring-pattern.md, tool-permission-interruption.md, team-adoption.md, learning-adaptation-pattern.md, planning-pattern.md, reasoning-pattern.md, prompt-chaining.md — 补对等概念反向 wikilink，updated 同步到 2026-04-26
+
 ## [2026-04-26] ingest | Claude Code 8 个高频 slash command（破晓AI编程）
 - Source: https://mp.weixin.qq.com/s/WqfpZOeg-UEzUinz8n3T3w
 - Created: wiki/sources/claude-code-slash-commands.md

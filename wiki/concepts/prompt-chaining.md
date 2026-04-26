@@ -4,7 +4,7 @@ aliases: ["提示词链", "Prompt Chaining"]
 type: concept
 tags: [agent, 设计模式, 工作流]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-26
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 ---
 
@@ -47,3 +47,4 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[routing-pattern|路由]] — 路由为链引入条件分支
 - [[parallelization-pattern|并行化]] — 独立子任务可并行，依赖步骤用链串联
 - [[reflection-pattern|反思]] — 链中可嵌入自我审查环节
+- [[planning-pattern|规划]] — 规划产出计划，链负责把计划落到执行
