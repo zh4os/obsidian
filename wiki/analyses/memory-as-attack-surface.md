@@ -13,7 +13,7 @@ sources: []
 
 ## 结论
 
-**长期记忆是被严重低估的攻击面。**普通 prompt injection 是一次性事故——这一轮被注入，下一轮 context 一清就过去了；**记忆注入是持久化事故**——一次成功的污染会被反复检索、反复加权、跨会话不断生效，直到有人显式发现并清除它。绝大多数现行 agent 框架（包括书中示例的 Vertex Memory Bank、LangChain Memory、Google ADK MemoryService）默认把所有写入路径视为同等可信，这是一个工程缺口。
+**长期记忆是被严重低估的攻击面**。普通 prompt injection 是一次性事故——这一轮被注入，下一轮 context 一清就过去了；**记忆注入是持久化事故**——一次成功的污染会被反复检索、反复加权、跨会话不断生效，直到有人显式发现并清除它。绝大多数现行 agent 框架（包括书中示例的 Vertex Memory Bank、LangChain Memory、Google ADK MemoryService）默认把所有写入路径视为同等可信，这是一个工程缺口。
 
 ## 为什么记忆比上下文危险
 
