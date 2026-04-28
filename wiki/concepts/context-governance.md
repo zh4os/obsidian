@@ -4,7 +4,7 @@ aliases: ["上下文治理"]
 type: concept
 tags: [harness-engineering, claude-code, context]
 created: 2026-04-24
-updated: 2026-04-26
+updated: 2026-04-28
 sources: [raw/papers/book1-claude-code.pdf]
 ---
 
@@ -38,3 +38,10 @@ sources: [raw/papers/book1-claude-code.pdf]
 - [[error-and-recovery|错误与恢复]]
 - [[memory-management-pattern|记忆管理]] — 长期记忆 vs 工作内存的对照视角
 - [[prompt-chaining-in-long-context-era|长上下文时代下的提示词链]] — 延伸分析：百万 token 不让上下文治理失效
+
+### 记忆管理深度专题（应用实践）
+
+- [[memory-vs-long-context|长上下文 vs 长期记忆]] — 工作内存治理与长期记忆治理的边界
+- [[memory-vs-workflow-state|记忆 vs 工作流状态]] — 工作内存内部的两种持久化区分
+- [[memory-write-strategy|写入策略：信号 vs 噪音]] — 写入治理是上下文治理的延伸
+- [[memory-staleness-and-forgetting|遗忘与陈旧]] — 记忆同样需要预算与失效机制

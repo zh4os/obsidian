@@ -59,3 +59,10 @@
 ## Analyses
 - [[query-workflow-vs-query-loop|Query 工作流 vs Query Loop]] — 同名但不同层：认知工作流 vs 执行基础设施
 - [[prompt-chaining-in-long-context-era|长上下文时代下的提示词链是否还有意义]] — 百万 token 没让链失效，反而让"主动选择分"更重要
+- [[memory-write-strategy|记忆的写入策略]] — 信号 vs 噪音；隐式/显式分流；不该被记的清单比该记什么更体现成熟度
+- [[memory-staleness-and-forgetting|记忆的遗忘与陈旧]] — 失效机制对比、记忆 vs git 的边界、陈旧记忆的不对称伤害
+- [[memory-vs-long-context|长上下文时代长期记忆还有必要吗]] — 不被取代而是被重新定位：从容量补丁升级为成本/缓存/注意力的工程化治理
+- [[memory-as-attack-surface|记忆作为攻击面]] — 长期化的 prompt injection、可信源四级分级、冲突解决 fallback 顺序
+- [[memory-evaluation|记忆系统的评估]] — 缺乏公开 ablation 的领域；记忆何时反而有害；离线 benchmark 与在线 A/B 的配合
+- [[memory-vs-workflow-state|记忆 vs 工作流状态]] — 看似需要记忆的需求一半其实需要 state；按相似度 vs 按位置访问的判据
+- [[memory-granularity-and-timing|记忆的粒度与时机]] — 原子配即时、叙事配延迟；双轨并行时叙事是权威源、原子是投影

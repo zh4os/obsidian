@@ -3,7 +3,7 @@ title: 长上下文时代下的提示词链是否还有意义
 type: analysis
 tags: [prompt-chaining, long-context, agent, context-engineering]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-04-28
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf, raw/papers/book1-claude-code.pdf]
 ---
 
@@ -70,3 +70,4 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf, raw/papers/book1-cla
 - [[planning-pattern|规划]]
 - [[parallelization-pattern|并行化]]
 - [[agentic-design-patterns|智能体设计模式（双语版）]]
+- [[memory-vs-long-context|长上下文时代长期记忆是否被取代]] — 姊妹篇，结构同构（"装得下"≠"该装")

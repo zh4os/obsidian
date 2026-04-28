@@ -4,7 +4,7 @@ aliases: ["记忆管理", "Memory Management Pattern"]
 type: concept
 tags: [agent, 设计模式, 状态管理]
 created: 2026-04-24
-updated: 2026-04-26
+updated: 2026-04-28
 sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 ---
 
@@ -47,3 +47,13 @@ sources: [raw/papers/agentic-design-patterns-bilingual.pdf]
 - [[rag-pattern|知识检索（RAG）]] — RAG 是记忆检索的一种方式
 - [[learning-adaptation-pattern|学习与适应]] — 经验积累需要记忆支持
 - [[knowledge-management|知识管理]] — 长期记忆是知识管理的实现层
+
+### 应用实践深度分析
+
+- [[memory-write-strategy|写入策略：信号 vs 噪音]] — 阈值、隐式/显式分流、不该被记的清单
+- [[memory-staleness-and-forgetting|遗忘与陈旧]] — 失效机制对比、记忆 vs git 边界、陈旧记忆的不对称伤害
+- [[memory-vs-long-context|长上下文时代长期记忆是否被取代]] — 不被取代而是被重新定位
+- [[memory-as-attack-surface|记忆作为攻击面]] — 长期化 prompt injection、可信源四级分级、冲突 fallback
+- [[memory-evaluation|记忆系统的评估]] — 缺乏公开 ablation 的领域；记忆何时反而有害
+- [[memory-vs-workflow-state|记忆 vs 工作流状态]] — 常被混淆的两种持久化
+- [[memory-granularity-and-timing|粒度与时机]] — 原子配即时、叙事配延迟

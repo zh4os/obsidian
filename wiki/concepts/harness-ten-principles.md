@@ -32,4 +32,5 @@ sources: [raw/papers/book1-claude-code.pdf]
 ## 相关
 
 - [[harness-engineering|Harness Engineering]] — 详细展开
+- [[agent-harness|Agent Harness]] — 术语入口页（这十条原则是 harness 的设计准则）
 - [[claude-code|Claude Code]] — 实践样本

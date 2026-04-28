@@ -43,5 +43,6 @@ Harness 不是对模型能力的情绪化防御，而是模型进入工程环境
 
 ## 相关
 
+- [[agent-harness|Agent Harness]] — 术语入口页：harness 的定义、组成部件、两种流派
 - [[claude-code|Claude Code]] — Harness Engineering 的实践样本
 - [[query-loop|Query Loop]]、[[tool-permission-interruption|工具权限与中断]]、[[context-governance|上下文治理]]、[[error-and-recovery|错误与恢复]]、[[multi-agent-verification|多代理与验证]]
